@@ -113,6 +113,16 @@ public class Vista extends JFrame {
             ex.printStackTrace();
 
         }
+
+        try {
+            java.net.URL iconURL = getClass().getResource("/img/icono.png");
+            if (iconURL != null) {
+                this.setIconImage(new ImageIcon(iconURL).getImage());
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        
         this.setContentPane(panel1);
         this.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
         this.pack();
