@@ -55,3 +55,8 @@ INSERT INTO bodegas (nombre, pais, telefono, email, direccion) VALUES
 INSERT INTO empleados (nombre, apellidos, dni, cargo, telefono, salario, fechacontratacion) VALUES
 ('Ana', 'Garcia Lopez', '12345678A', 'gerente', '600111222', 2500.00, '2020-01-15'),
 ('Carlos', 'Martinez Ruiz', '87654321B', 'sumiller', '600333444', 1800.00, '2021-03-10');
+
+INSERT INTO vinos (nombre, tipo, añada, origen, precio, stock, idbodega, fechaingreso) VALUES
+('Rioja Reserva', 'TINTO', 2019, 'ESPAÑA', 18.50, 50, 1, '2024-01-15'),
+('Sauvignon Blanc', 'BLANCO', 2022, 'FRANCIA', 14.00, 30, 2, '2024-03-10'),
+('Barolo Premium', 'TINTO', 2020, 'ITALIA', 22.75, 45, 3, '2024-02-20');
