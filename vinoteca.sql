@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS vinoteca;
-USE vinoteca;
+CREATE DATABASE IF NOT EXISTS la_vinoteca;
+USE la_vinoteca;
 
 CREATE TABLE IF NOT EXISTS bodegas (
     idbodega INT AUTO_INCREMENT PRIMARY KEY,

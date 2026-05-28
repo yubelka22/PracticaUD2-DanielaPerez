@@ -25,7 +25,7 @@ public class Modelo {
     void conectar() {
         try {
             conexion = DriverManager.getConnection(
-                    "jdbc:mysql://" + ip + ":3306/vinoteca", user, password);
+                    "jdbc:mysql://" + ip + ":3306/la_vinoteca", user, password);
         } catch (SQLException sqle) {
             try {
                 conexion = DriverManager.getConnection(

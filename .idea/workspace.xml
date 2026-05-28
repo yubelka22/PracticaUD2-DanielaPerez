@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="859ae40a-9b20-4a23-b783-673904417d2c" name="Default Changelist" comment="" />
+    <list default="true" id="859ae40a-9b20-4a23-b783-673904417d2c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/PracticaUD2_DanielaPerez_jar/PracticaUD2-DanielaPerez.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/PracticaUD2_DanielaPerez_jar/PracticaUD2-DanielaPerez.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticaUD2-DanielaPerez/gui/Modelo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaUD2-DanielaPerez/gui/Modelo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/Modelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/Modelo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vinoteca.sql" beforeDir="false" afterPath="$PROJECT_DIR$/vinoteca.sql" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +88,7 @@
       <workItem from="1778803922147" duration="650000" />
       <workItem from="1778889953596" duration="979000" />
       <workItem from="1778931253123" duration="7139000" />
+      <workItem from="1779933539719" duration="1067000" />
     </task>
     <servers />
   </component>
@@ -93,7 +100,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
